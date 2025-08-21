@@ -11,7 +11,7 @@ import Dashboard from './pages/Dashboard';
 import Users from './pages/Users';
 import Tasks from './pages/Tasks';
 import Projects from './pages/projects';
-import Documents from './pages/Documents';
+import Documents from './pages/documents';
 import MeetingMinutes from './pages/meetingMinutes';
 import Notification from './pages/notification';
 import Reports from './pages/report';
